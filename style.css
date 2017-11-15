@@ -1,0 +1,48 @@
+     canvas {
+            position: relative;
+            border: 3px solid #e0e0e0;
+            background-color: #fafafa;
+            border-radius: 10px;
+        }
+    
+    .login h1 {
+        text-align: center;
+        color: #7200ca;
+        font-size: 20px;
+        margin-bottom: 5px;
+        font-family: 'Luckiest Guy', cursive;
+    }
+
+      .login {
+            box-sizing:content-box;
+            font-family: sans-serif;
+            font-size: 12px;
+            background-color: transparent;
+            margin-top: -5px;
+            position: absolute;
+            top: 7px;
+            left: 20px;
+            height: 150px;
+            width: 160px;
+        
+      }
+      
+      .login input {
+            outline:inherit;
+            padding: 2px 5px;
+            outline-offset: none;
+            height: 21px;
+            margin-bottom: 10px;
+            border-radius: 10px;
+            border: 2px solid #e0e0e0;
+      }
+      .login input[type='submit'] {
+            margin-top: 7px;
+            width: 180px;;
+            height: 25px;
+            font-size: 12px;
+            cursor: pointer;
+            background-color: aquamarine;
+            border: 2px solid aquamarine;
+      }
+      
